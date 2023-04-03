@@ -5,23 +5,18 @@
 </p>
 
 # Pedro Henrique Mello
-<sub>*Junior Data Scientist* at xxxxxxxxxxxxx</sub>
+<sub>*Junior Data Analyst*</sub>
 
-Write a bio here xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.
+A Luso-Brazillian Data Analyst currently working for the Brazilian government and passionate about using data to solve problems. 
 
-Dar continuidade à bio com as minhas habilidades técnicas xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.
+One of my strongest characteristics is being self-taught. I have a natural curiosity and drive to constantly learn and improve my skills.
 
-**Background in:** Python, Machine Learning, xxxxxxxxxxxxx, xxxxxxxxxxxxxx.
+Whether it's developing data-driven insights or creating visualizations that tell a story, I thrive on finding creative solutions to challenging problems.
+
+**Background in:** Python, Machine Learning, SQL, Data Visualization, NLP.
 
 **Links:**
-* [Blog](LINK HERE)
-* [LinkedIn](LINK HERE)
-* [Medium](LINK HERE)
 
-
-## Projetos:
-A seguir alguns de meus projetos:
-
-* **XXXXXXXXXXXXXXXXXXXXXXXX:** LINK AQUI XXXXXXXXXXXXXXXXXXXX
+* [LinkedIn](linkedin.com/in/pedro-h-mello-b893701b1)
 
 ---
