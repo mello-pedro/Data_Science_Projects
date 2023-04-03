@@ -5,7 +5,7 @@
 </p>
 
 # Pedro H. Mello Pereira
-<sub>*Junior Data Analyst*</sub>
+<sub>*Data Analyst*</sub>
 
 A Luso-Brazillian Data Analyst/Scientist passionate about using data to solve problems. 
 
