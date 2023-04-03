@@ -4,7 +4,7 @@
   <img src="banner.png" >
 </p>
 
-# Pedro Henrique Mello
+# Pedro H. Mello Pereira
 <sub>*Junior Data Analyst*</sub>
 
 A Luso-Brazillian Data Analyst currently working for the Brazilian government and passionate about using data to solve problems. 
