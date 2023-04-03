@@ -7,7 +7,7 @@
 # Pedro H. Mello Pereira
 <sub>*Junior Data Analyst*</sub>
 
-A Luso-Brazillian Data Analyst/Scientist currently working for the Brazilian government and passionate about using data to solve problems. 
+A Luso-Brazillian Data Analyst/Scientist passionate about using data to solve problems. 
 
 One of my strongest characteristics is being self-taught. I have a natural curiosity and drive to constantly learn and improve my skills.
 
